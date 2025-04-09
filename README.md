@@ -18,9 +18,7 @@ Welcome to my personal collection of Data Structures — a growing set of beauti
 ---
 
 ## 💻 Languages Used:
-- Python 🐍  
 - C++ 💻  
-(*Planning to add Java in future too! 🌱*)
 
 ---
 
